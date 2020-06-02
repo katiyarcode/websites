@@ -1,0 +1,15 @@
+.red {
+    background-color: aquamarine;
+    font-size: 2cm;
+    text-shadow: 2px 2px lightslategrey;
+}
+
+.f {
+    background-color: burlywood;
+}
+
+.green {
+    font-size: 40px;
+    background-color: lightskyblue;
+    text-shadow: 2px 2px lightslategray;
+}
